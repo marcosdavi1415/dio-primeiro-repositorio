@@ -1,1 +1,1 @@
-# dio-primeiro-repositorio
+# Repositório correspondente ao bootcamp da DIO.
